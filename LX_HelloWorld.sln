@@ -5,12 +5,6 @@ VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LX_HelloWorld", "LX_HelloWorld\LX_HelloWorld.csproj", "{54C918DB-2074-4946-9584-FD3059740D04}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{4E4F9778-82B7-41AF-AEAE-53E3087CCA07}"
-	ProjectSection(SolutionItems) = preProject
-		Deployment.yaml = Deployment.yaml
-		Service.yaml = Service.yaml
-	EndProjectSection
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
